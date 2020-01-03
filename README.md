@@ -1,6 +1,7 @@
 # Dhivehi NER
 attempt at implementing Name entity recogniton for dhivehi
-related blog post https://medium.com/@dharisd/dhivehi-name-entity-recogniton-e4b23a34bee3
+
+https://medium.com/@dharisd/dhivehi-name-entity-recogniton-e4b23a34bee3
 
 # Installation
 ```
